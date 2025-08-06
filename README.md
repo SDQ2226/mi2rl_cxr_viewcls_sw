@@ -15,7 +15,7 @@
 
 ## Description
 
-![model_description](model_image.png)
+![model_description](model_Image.png)
 
 ## Usage Notes
 
@@ -27,13 +27,13 @@
 
 ```bash
 %cd Test
-!pip install -r 'requirements.txt'
+!pip install -r 'requirements.txt'```
 
 ### Inference
 
 ```bash
 %cd nnUNet_v2_inference_lowres
-!python DataExtraction_CSV_subprocess.py -input_dcm '../dcm_input' -gpu_num 1
+!python DataExtraction_CSV_subprocess.py -input_dcm '../dcm_input' -gpu_num 1```
 
 
 - i: Input cxr image folder location.
