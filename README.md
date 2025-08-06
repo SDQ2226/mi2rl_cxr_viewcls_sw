@@ -4,7 +4,7 @@
 
 
 ## Abstract
-
+- PA, AP, Lateral, Others Classification
 - Filter model (resnet, densensenet, efficientnet) was used to classify into PA, AP, Lateral, and Others through chest X-ray data.
 
 - Learning data is conducted using AMC (AsanMedicalCenter) 25,700 CXR Image, CheXpert 19,800 CXR Image, and MIMIC-CXR 19,800 CXR Image.
