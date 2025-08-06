@@ -53,13 +53,13 @@ The output results are saved as a csv file in the location corresponding to para
 [CheXpert](https://aimi.stanford.edu/datasets/chexpert-chest-x-rays)
 
 
+## Files
+⬇️ [Download SW](https://github.com/mi2rl/DataCuration/tree/386eafa30667b9558f4d24ee702955b75d36a4fd/CXR_ViewCLS)
 
 
-
-### Contributing
+## Contributing
 
 If you'd like to contribute, or have any suggestions for these guidelines, you can contact us at junegoo.lee@gmail.com or open an issue on this GitHub repository.
 
 
-## Files
-⬇️ [Download SW](https://github.com/mi2rl/DataCuration/tree/386eafa30667b9558f4d24ee702955b75d36a4fd/CXR_ViewCLS)
+
