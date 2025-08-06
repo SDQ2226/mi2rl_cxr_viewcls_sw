@@ -27,13 +27,15 @@
 
 ```bash
 %cd Test
-!pip install -r 'requirements.txt'```
+!pip install -r 'requirements.txt'
+```
 
 ### Inference
 
 ```bash
 %cd nnUNet_v2_inference_lowres
-!python DataExtraction_CSV_subprocess.py -input_dcm '../dcm_input' -gpu_num 1```
+!python DataExtraction_CSV_subprocess.py -input_dcm '../dcm_input' -gpu_num 1
+```
 
 
 - i: Input cxr image folder location.
@@ -46,7 +48,7 @@ The output results are saved as a csv file in the location corresponding to para
 
 ### Reference
 
-[MIMIC CXR](https://github.com/mi2rl/DataCuration/tree/386eafa30667b9558f4d24ee702955b75d36a4fd/Syntax_missing_SW)](https://physionet.org/content/mimic-cxr/2.0.0/)
+[MIMIC CXR](https://physionet.org/content/mimic-cxr/2.0.0/)
 
 [CheXpert](https://aimi.stanford.edu/datasets/chexpert-chest-x-rays)
 
