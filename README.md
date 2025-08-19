@@ -44,7 +44,17 @@
 
 The output results are saved as a csv file in the location corresponding to parameter i.
 
-## Tag 
+## Summary
+
+Chest X-ray views (PA, AP, Lateral, Others) were classified using ensemble deep learning models.
+
+## Tag(Input)
+
+Chest X-ray
+
+## Tag(purpose)
+
+Classification
 
 ## Reference
 
