@@ -52,7 +52,7 @@ Chest X-ray views (PA, AP, Lateral, Others) were classified using ensemble deep 
 
 Chest X-ray
 
-## Tag(purpose)
+## Tag(Purpose)
 
 Classification
 
